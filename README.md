@@ -27,7 +27,7 @@
 
 ## Files
 
-- `paper/匿名作品—本科生组—TJJM20260520006825.pdf`: anonymous final paper.
+- `paper/statistical-modeling-2026-paper.pdf`: anonymous final paper.
 - `data/panel_city_data.csv`: cleaned city-level panel dataset.
 - `code/MATLAB/main.m`: MATLAB full workflow entry point.
 - `code/MATLAB/Module1_Spatiotemporal.m`: spatiotemporal feature analysis.
